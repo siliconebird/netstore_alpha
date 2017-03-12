@@ -1,0 +1,13 @@
+body{
+	font-size: 12px;
+	text-align: center;
+}
+table {
+	font-size: 12px;
+}
+.odd{
+	background-color: gray;
+}
+.even{
+	background-color: lime;
+}
