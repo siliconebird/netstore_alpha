@@ -1,4 +1,0 @@
-# netstore_alpha
-初级的购物网站项目，没有使用框架，数据库使用mysql，数据库操作使用dbutils与dbcp。
-文件上传下载使用fileupload包，页面属性的封装使用beanutils包，发送邮件验证使用javamail包。
-项目实现客户的注册登陆功能，购物车与订单功能，后台添加管理货物功能，以及粗粒度的后台权限管理。
